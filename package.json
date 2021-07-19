@@ -13,7 +13,7 @@
     "gatsby-plugin-react-helmet": "^3.0.12",
     "gatsby-plugin-sharp": "^2.0.35",
     "gatsby-source-filesystem": "^2.0.32",
-    "gatsby-source-wordpress": "^3.0.57",
+    "gatsby-source-wordpress": "^4.0.8",
     "gatsby-transformer-sharp": "^2.1.18",
     "jquery": "^3.4.1",
     "prop-types": "^15.7.2",
